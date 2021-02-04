@@ -21,7 +21,7 @@ window.onload = function init()
     //(red, green, blue) values for all of the vertices
     colors = [
         vec3(1.0, 0.0, 0.0),
-        vec3(1.0, 1.0, 0.0),
+        vec3(1.0, 1.0, 1.0),
         vec3(1.0, 0.0, 1.0)
     ];
 
